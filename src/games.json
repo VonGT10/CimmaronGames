@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Classic number merging puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "3",
+    "title": "Doodle Jump (Clone)",
+    "description": "Jump as high as you can!",
+    "thumbnail": "https://picsum.photos/seed/jump/400/300",
+    "iframeUrl": "https://doodlejump.io/"
+  },
+  {
+    "id": "4",
+    "title": "Snake",
+    "description": "The classic snake game.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "5",
+    "title": "Cookie Clicker",
+    "description": "Bake as many cookies as you can.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "6",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible.",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "iframeUrl": "https://paper-io.com/"
+  }
+]
